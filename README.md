@@ -1,1 +1,1 @@
-# datasciencecoursera
+# repo for the Data Science classes 
